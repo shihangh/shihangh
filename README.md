@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shihangh, an economics DPhil (PhD) student at the University of Oxford.
+- 👋 Hi, I’m @shihangh, a post-doc researcher at the Institute for Employment Research in Germany.
 - 👀 I’m interested in applied microeconomics, specifically family economics, economics of education and labour economics.
 - 🌱 I’m currently learning R, Matlab and Julia.
 - 💞️ I’m looking to collaborate on ...
